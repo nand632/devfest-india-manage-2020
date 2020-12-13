@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "devfest-india-manage",
+    "site": "devfestindia-15728",
     "public": "dist",
     "ignore": [
       "firebase.json",
